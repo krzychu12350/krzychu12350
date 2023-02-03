@@ -31,7 +31,7 @@
 ### IDEs and text editors
 <div style="display:flex; padding:5px">
   <img width="50" src="https://easyreadme.jabed.me/IDE/phpstorm.svg" alt="php storm">
-  <img width="55" src="https://easyreadme.jabed.me/IDE/pycharm.svg" alt="pycharm">
+  <img width="50" src="https://easyreadme.jabed.me/IDE/pycharm.svg" alt="pycharm">
   <img width="50" src="https://easyreadme.jabed.me/text%20editors/vscode.svg" alt="vscode">  
 </div>
   
