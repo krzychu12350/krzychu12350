@@ -1,7 +1,7 @@
 # Hi there, I’m Cris :relaxed:
 
 ## About me
-- :book: I'm computer science student at University of Rzeszow
+- :book: I graduated computer science at University of Rzeszow
 - 👀 I'm interested in creating web applications and cybersecurity
 - :muscle: I'm currently learning Symfony, Laravel and Vue.js
 - 📫 How to reach me **krzysztofkaras98@gmail.com**
