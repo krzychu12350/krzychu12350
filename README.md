@@ -6,6 +6,10 @@
 - :muscle: I'm currently learning Symfony, Laravel and Vue.js
 - 📫 How to reach me **krzysztofkaras98@gmail.com**
 
+## Technologies I use the most
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krzychu12350)](https://github.com/krzychu12350/github-readme-stats)
+
 ## I have experience in working with
 
 ### Technologies
