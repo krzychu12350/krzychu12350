@@ -27,7 +27,7 @@
   -->
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,vue,php,py,laravel" />
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,vue,php,py,laravel,symfony,docker" />
     </a>
   </p>
 </div>
@@ -41,7 +41,7 @@
   -->
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis" />
     </a>
   </p>
 </div>
@@ -92,7 +92,7 @@
  <div style="display:flex">
     <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=redis,docker,graphql,ts,azure,aws" />
+      <img src="https://skillicons.dev/icons?i=graphql,ts,azure,aws" />
     </a>
   </p>
 </div>
