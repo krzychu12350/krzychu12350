@@ -50,7 +50,7 @@
 <div style="display:flex">
     <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=gcp" />
+      <img src="https://skillicons.dev/icons?i=gcp,aws" />
     </a>
   </p>
 </div>
@@ -92,7 +92,7 @@
  <div style="display:flex">
     <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=graphql,ts,azure,aws" />
+      <img src="https://skillicons.dev/icons?i=graphql,ts,azure" />
     </a>
   </p>
 </div>
