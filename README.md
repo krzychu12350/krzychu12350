@@ -1,7 +1,7 @@
 # Hi there, I’m Cris :relaxed:
 
 ## About me
-- :book: I graduated computer science at University of Rzeszow
+- :book: I graduated computer science at University of Rzeszow. Currently, I pursue the master's degree in cybersecurity at University of Information Technology and Management - UITM in Rzeszow.
 - 👀 I'm interested in creating web applications and cybersecurity
 - :muscle: I'm currently learning Symfony, Laravel and Vue.js
 - 📫 How to reach me **krzysztofkaras98@gmail.com**
