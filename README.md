@@ -27,7 +27,7 @@
   -->
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,vue,php,py,laravel,symfony,docker" />
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,jquery,vue,php,py,laravel,symfony,docker" />
     </a>
   </p>
 </div>
@@ -92,7 +92,7 @@
  <div style="display:flex">
     <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=graphql,ts,azure" />
+      <img src="https://skillicons.dev/icons?i=graphql,azure" />
     </a>
   </p>
 </div>
